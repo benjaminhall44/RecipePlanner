@@ -1,0 +1,23 @@
+{
+    "replicator": {
+        "ingredients": {
+            "laser": 2.0,
+            "circuit": 3.0
+        }
+    },
+    "laser": {
+        "ingredients": {
+            "neon": 0.5,
+            "circuit": 2.0
+        }
+    },
+    "neon": {
+        "ingredients": {}
+    },
+    "circuit": {
+        "ingredients": {}
+    },
+    "fudge": {
+        "ingredients": {}
+    }
+}

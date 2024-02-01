@@ -1,0 +1,1 @@
+pyinstaller --onefile -i craftplanner.ico craftplanner.py
